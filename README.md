@@ -1,5 +1,5 @@
 # flutter_with_nodejs_chat_app
-Chat app created with flutter framework using web_socket_channel plugin.This project also contains the server side written with node.js
+Chat app created with flutter framework using web_socket_channel plugin.This project also contains the server side written with node.js.The images below are from a use case with 2 different mobile devices (A,B).
 
 Mobile A
 
